@@ -1,5 +1,7 @@
-Excited to share my first project 📈 at CognoRise InfoTech, where I analyze the impact  on unemployment rates in India."
+Hello, connections! ✨
+🌾TASK 3: EMPLOYEE SALARIES FOR DIFFERENT JOB ROLES
 
-" Unemployment in India📈 "
+Dataset TOOL: Python Programming
 
- Here's the data analysis of the dataset focusing on Unemployment in India .
+I'm thrilled to unveil the insights from my internship at CognoRise InfoTech,
+where I delved into the captivating realm of cereals data! 
